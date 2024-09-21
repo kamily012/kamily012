@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou a Kamily Vitoria 👋
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamily-vitoria)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamily-vitoria-9851a5303/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kamilyvitoria012)
 
 ![kamily GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamily012&show_icons=true&theme=dracula)
